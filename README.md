@@ -23,7 +23,7 @@ To run this application locally, you need to have the following tools installed:
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/sasikiran20/Basic_Movie_Application.git
+   git clone https://github.com/sasikiran20/Cine_Connect.git
    cd Movies_Backend
    ```
 
@@ -58,7 +58,7 @@ To run this application locally, you need to have the following tools installed:
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/sasikiran20/Basic_Movie_Application.git
+   git clone https://github.com/sasikiran20/Cine_Connect.git
    cd Movies_Frontend/movies-premium-v1
    ```
 
